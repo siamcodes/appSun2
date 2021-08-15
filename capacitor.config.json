@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "appSun2",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
